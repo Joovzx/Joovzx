@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Joovzx/Joovzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌸 Hi there welcome to my github!
 
-Here are some ideas to get you started:
+![Todoroki](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT36LXUon8nAclE4WPdjagNJb79AAqJaISrIQ&usqp=CAU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is **Jovantri** you can call me **Jov**
+
+My discord is __joovzx#1010__
+
+- 🔭 I’m currently working on todoroki shouto developer bot discord
+- 🌱 I’m currently learning English and Russian Language
+- 🤔 I’m looking for help with my friend
+- 💬 Ask me about my bot lol
+- 📫 How to reach me : just studying 
+
+## 🌸 My Github Stats
+
+![a](https://github-readme-stats.vercel.app/api?username=Joovzx&show_icons=true&theme=white)
+![b](https://github-readme-stats.vercel.app/api/top-langs/?username=Joovzx&layout=compact&show_icons=true&theme=white)
