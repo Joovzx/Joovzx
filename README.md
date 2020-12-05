@@ -15,5 +15,5 @@ My discord is __joovzx#1010__
 
 ## 🌸 My Github Stats
 
-![a](https://github-readme-stats.vercel.app/api?username=Joovzx&show_icons=true&theme=white)
-![b](https://github-readme-stats.vercel.app/api/top-langs/?username=Joovzx&layout=compact&show_icons=true&theme=white)
+![a](https://github-readme-stats.vercel.app/api?username=Joovzx&show_icons=true&theme=yeblu)
+![b](https://github-readme-stats.vercel.app/api/top-langs/?username=Joovzx&layout=compact&show_icons=true&theme=yeblu)
