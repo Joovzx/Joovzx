@@ -1,17 +1,12 @@
 
 ### 🌸 Hi there welcome to my github!
 
-My Activity in Discord : 
-
-![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/552492140270452736?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/552492140270452736&color=1ED45F) ![Profile Views](https://komarev.com/ghpvc/?username=joovzx)
-![Made](https://img.shields.io/badge/Tag%20Discord-Joovzx%231010-blue)
+[![Discord](https://discord.c99.nl/widget/theme-4/552492140270452736.png)](https://discord.com/users/552492140270452736)
 
 ![Todoroki](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQiT7EQ48IWp2apDrTjbiiFENDDD9VXisXA&usqp=CAU)
 
-My name is **Jovantri** you can call me **Jov**
-
-My discord is __joovzx#1010__
-
+### 🌸 My name is **Jovantri** 
+> Here Some QnA
 - 🔭 I’m currently working on todoroki shouto developer bot discord
 - 🌱 I’m currently learning English and Russian Language
 - 🤔 I’m looking for help with my friend
