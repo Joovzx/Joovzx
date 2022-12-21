@@ -14,6 +14,7 @@
 - 🤔 I’m looking for help with my friend
 - 💬 Ask me about my bot lol
 - 📫 How to reach me : just studying 
+- 🎁 Buy me a christmas gift : https://saweria.co/todoroki100
 
 ## 🌸 My Github Stats
 
