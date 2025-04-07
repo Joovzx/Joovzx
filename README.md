@@ -7,15 +7,6 @@
   </a>
 </p>
 
-### 🌸 My name is **Jovantri** 
-> Here Some QnA
-- 🔭 I’m currently working on todoroki shouto developer bot discord
-- 🌱 I’m currently learning English and Russian Language
-- 🤔 I’m looking for help with my friend
-- 💬 Ask me about my bot lol
-- 📫 How to reach me : just studying 
-- 🎁 Buy me a christmas gift : https://saweria.co/todoroki100
-
 ## 🌸 My Github Stats
 
 ![a](https://github-readme-stats.vercel.app/api?username=Joovzx&show_icons=true&theme=yeblu)
